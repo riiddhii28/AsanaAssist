@@ -28,7 +28,7 @@ class AboutScreen extends StatelessWidget {
 
               // App Title
               Text(
-                "Welcome to YogaBliss 🧘‍♀️",
+                "Welcome to AsanaAssist 🧘‍♀️",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 24,
@@ -60,7 +60,7 @@ class AboutScreen extends StatelessWidget {
               // Team Credit
               Center(
                 child: Text(
-                  "Made with ❤️ by the YogaBliss Team",
+                  "Made with ❤️ by the AsanaAssist Team",
                   style: TextStyle(fontSize: 14, color: Colors.grey),
                 ),
               ),

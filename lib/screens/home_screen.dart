@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: Color(0xFFF9F5F0),
       appBar: AppBar(
-        title: Text("YogaBliss 🧘‍♂️", style: TextStyle(color: Colors.white)),
+        title: Text("AsanaAssist 🧘‍♂️", style: TextStyle(color: Colors.white)),
         backgroundColor: Color(0xFF6D3A3F), 
         elevation: 0,
       ),
@@ -34,7 +34,7 @@ class HomeScreen extends StatelessWidget {
 
                 // Welcome Text
                 Text(
-                  "Welcome to YogaBliss!",
+                  "Welcome to AsanaAssist!",
                   style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Color(0xFF6D3A3F)),
                 ),
                 SizedBox(height: 8),
@@ -91,7 +91,7 @@ class HomeScreen extends StatelessWidget {
                 _buildFeatureButton(
                   context,
                   "ℹ️ About",
-                  "Learn more about YogaBliss and its features.",
+                  "Learn more about AsanaAssist and its features.",
                   Icons.info_outline_rounded,
                   "/about",
                 ),
@@ -118,7 +118,7 @@ class HomeScreen extends StatelessWidget {
               children: [
                 Icon(Icons.spa_rounded, size: 50, color: Colors.white),
                 SizedBox(height: 10),
-                Text("YogaBliss", style: TextStyle(color: Colors.white, fontSize: 22, fontWeight: FontWeight.bold)),
+                Text("AsanaAssist", style: TextStyle(color: Colors.white, fontSize: 22, fontWeight: FontWeight.bold)),
                 Text("Your Personal Yoga Guide", style: TextStyle(color: Colors.white70, fontSize: 14)),
               ],
             ),

@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'YogaBliss',
+      title: 'AsanaAssist',
       theme: ThemeData(
         primaryColor: Color(0xFFA89A8D), // Soft Taupe
         scaffoldBackgroundColor: Color(0xFFE9E8E7), // Light Beige
@@ -69,7 +69,7 @@ class AuthCheck extends StatelessWidget {
                   CircularProgressIndicator(color: Color(0xFF6D3A3F)), 
                   SizedBox(height: 10),
                   Text(
-                    "Loading YogaBliss...",
+                    "Loading AsanaAssist...",
                     style: TextStyle(fontSize: 16, color: Color(0xFF1D1B1A)),
                   ),
                 ],

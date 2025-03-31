@@ -1,6 +1,6 @@
-# 🧘 YogaBliss – AI-Powered Yoga Pose Detection  
+# 🧘 AsanaAssist – AI-Powered Yoga Pose Detection  
 
-🚀 **YogaBliss** is a Flutter-based mobile app that helps users improve their yoga practice using AI-powered **pose detection and classification**. It allows users to upload images/videos for analysis and get real-time feedback on their yoga postures.  
+🚀 **AsanaAssist** is a Flutter-based mobile app that helps users improve their yoga practice using AI-powered **pose detection and classification**. It allows users to upload images/videos for analysis and get real-time feedback on their yoga postures.  
 
 ## 🌟 Features  
 
@@ -16,7 +16,7 @@
 - 🔹 **Personalized Feedback** – Suggest corrections based on detected poses.  
 
 ## 📂 Dataset  
-YogaBliss is trained on the **Yoga Pose Classification** dataset from Kaggle, containing 5 yoga poses:  
+AsanaAssist is trained on the **Yoga Pose Classification** dataset from Kaggle, containing 5 yoga poses:  
 - 🧎 **Downdog**  
 - 💪 **Plank**  
 - 🏋️ **Goddess**  

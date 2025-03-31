@@ -38,7 +38,7 @@ class _LoginScreenState extends State<LoginScreen> {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Text(
-                "Welcome to YogaBliss 🧘‍♂️",
+                "Welcome to AsanaAssist 🧘‍♂️",
                 style: TextStyle(
                   fontSize: 24,
                   fontWeight: FontWeight.bold,
